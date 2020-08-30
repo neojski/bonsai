@@ -1,2 +1,2 @@
-(executables (names main) (libraries bonsai_web bonsai_web_counters_example)
+(executables (names main) (libraries bonsai_web bonsai_web_counters_example incr_map)
  (preprocess (pps ppx_jane)))
